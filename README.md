@@ -29,7 +29,7 @@ Homepages are filled with ads and trackers. I don’t want to be part of that. M
 
 This is a personal project—to **learn and step out of my comfort zone.** Not to save the world.
 
-## 🚀 How to run (if you want to try)
+## 🚀 How to run (if you want to try) ---> This is definitely not ready to run yet. Don't just open index.html. Do it your way.
 
 ### **Easy mode:**
 1. Download the files.
