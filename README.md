@@ -29,20 +29,6 @@ Homepages are filled with ads and trackers. I don’t want to be part of that. M
 
 This is a personal project—to **learn and step out of my comfort zone.** Not to save the world.
 
-## 🚀 How to run (if you want to try) ---> This is definitely not ready to run yet. Don't just open index.html. Do it your way.
-
-### **Easy mode:**
-1. Download the files.
-2. Open in VSCode with Live Server.
-3. Done. Enjoy.
-
-### **"Serious developer" mode:**
-```sh
-git clone [repo-url]
-cd cosmos-search
-npx serve
-```
-
 ## 📸 Preview
 
 Here are some images of Cosmos Search:
@@ -71,27 +57,6 @@ Here are some images of Cosmos Search:
 - More **themes and visual customization** without editing the code.
 - Maybe a **browser extension version** (if I have the patience).
 - Or maybe I’ll **abandon this and do something else**. That’s life.
-
-## 👨‍💻 About Me
-
-My name is **Esthevan**, I’m **17**, and I study **Computer Science at Unicruz - Cruz Alta/Brazil**. I skipped a year in school and got into college early. Since I was a kid, **technology has fascinated me**. I learned to read at 4, started coding at 9.
-
-- **Started with Lua**, modding games.
-- Moved to **Python, JavaScript, C, and a bit of Java**.
-- **Not an experienced programmer**, but I know the basics of almost everything.
-- **First real project?** 2022. A school assignment that turned into a Python + KivyMD recycling collection software. It was implemented in my city, and we got recognition (two certificates and a medal).
-- Built an **emergency response platform** (paused due to lack of time).
-- Developed the **frontend for an NGO** in Rio Grande do Sul.
-- Currently working on **three college projects, all from scratch**.
-- Organizing an **open-source group** to build real solutions with some classmates.
-
-By the way, **proprietary software isn’t a problem for me**. The problem is **monopolies that stifle innovation**.
-
-If you expect **support or frequent updates**, forget it. **The code is here. Use it if you want.**
-
-## 📩 Want to contact me?
-
-**Discord:** `hoop0007` _(If you ask for support, I’ll laugh. I warned you.)_
 
 ## 🎯 Who is this for?
 
