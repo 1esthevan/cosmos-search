@@ -36,5 +36,4 @@ Here are some images of Cosmos Search:
 - People who **think default homepages are garbage**.
 - People who **prefer modifying their tools instead of accepting ready-made solutions**.
 
-If you don’t fit into any of these, **that’s your problem**. I’ll keep tweaking this when I have time.
 
